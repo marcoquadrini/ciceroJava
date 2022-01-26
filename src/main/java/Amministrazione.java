@@ -4,27 +4,32 @@ public class Amministrazione {
     private String password;
 
     /*Metodi generali*/
-    private void logout(){
+    public void logout(){
 
     }
-    private void eliminaProfilo(){
+    public void eliminaProfilo(){
 
     }
-    private void eliminaEsperienza(){
+    public void eliminaEsperienza(){
 
     }
-    private void eliminaTappa(){
+    public void eliminaTappa(){
 
     }
-    private void definisciTag(){
+    public void definisciTag(){
 
     }
-    private void aggiungiToponimo(){
+    public void aggiungiToponimo(){
 
     }
-    private void eliminaToponimo(){
+    public void eliminaToponimo(){
 
     }
+    public void approvaTag(){
 
+    }
+    public void visualizzaEsperienzeAttive(){
+        //TOOO
+    }
 
 }

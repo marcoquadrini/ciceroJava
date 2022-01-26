@@ -6,9 +6,6 @@ public class Cicerone extends Profilo {
     private Date dataNascita;
 
     /*Metodi generali*/
-    private void eliminaPartecipante(){
-
-    }
     private void modificaDisponibilita(){
 
     }
@@ -18,6 +15,16 @@ public class Cicerone extends Profilo {
     private void eliminaEsperienza(){
 
     }
+    private void proponiTag(){
+
+    }
+    private void modificaEsperienza(Esperienza esperienza){
+
+    }
+    private void visualizzaEsperienzeAttive(){
+
+    }
+
     /*Metodi get e set*/
     public Date getDataNascita() {
         return dataNascita;

@@ -6,9 +6,9 @@ public class Associazione extends  Profilo{
 
     /*metodi generali*/
     private void aggiungiEsperienza(){
-
+        //TODO VEDERE SE IMPLEMENTARE CON IL DATABASES
     }
-    private void eliminaEsperienza(){
+    private void eliminaEsperienza(String idEsperienza){
 
     }
     private void associaCicerone(){
@@ -18,6 +18,15 @@ public class Associazione extends  Profilo{
 
     }
     private void aggiungiCicerone(){
+
+    }
+    private void proponiTag(){
+
+    }
+    private void modificaEsperienza(){
+
+    }
+    private void visualizzaEsperienzeAttive(){
 
     }
 

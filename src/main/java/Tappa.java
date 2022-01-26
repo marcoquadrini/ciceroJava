@@ -44,4 +44,5 @@ public class Tappa {
     public void setTag(HashSet<Tag> tag) {
         this.tag = tag;
     }
+
 }
